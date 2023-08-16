@@ -6,7 +6,7 @@ support.
 ## Installation
 
 ```
-go get -u github.com/benesch/unison-fswatcher
+go install github.com/benesch/unison-fsmonitor@latest
 ```
 
 ## Details
